@@ -12,7 +12,7 @@ ____________________________________________
 - Emulador Mobile - [Android Studio](https://acesse.dev/UokJ3)
 - Java 11 -  [Java JDK 11](https://www.oracle.com/br/java/technologies/javase/jdk11-archive-downloads.html)
 - Python 3.12 - [Python 3.12](https://www.python.org/downloads/)
-- IDE de desenvolvimento (Sugestão) - [Visual Studio Code](httpscode.visualstudio.com)
+- IDE de desenvolvimento (Sugestão) - [Visual Studio Code](https://code.visualstudio.com/Download)
 - Framework de testes automatizados para mobile - [RobotFramework](https://robotframework.org/)
 - Orquestrador de testes - [Flutter Driver](https://api.flutter.dev/flutter/flutter_driver/flutter_driver-library.html)
 - Biblioteca RobotFramework Appium Library - [RobotFrameWork Appium Library](https://docs.robotframework.org/docs/different_libraries/appium)
